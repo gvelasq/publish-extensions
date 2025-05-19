@@ -416,6 +416,8 @@
   },
   "GustavoASC.google-drive-vscode": {
     "repository": "https://github.com/GustavoASC/google-drive-vscode"
+  "gvelasq.tomorrow-night-bright-r-classic": {
+    "repository": "https://github.com/gvelasq/tomorrow-night-bright-r-classic"
   },
   "halcyontechltd.code-for-ibmi": {
     "repository": "https://github.com/halcyon-tech/code-for-ibmi"
